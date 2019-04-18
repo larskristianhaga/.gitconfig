@@ -1,8 +1,7 @@
-Add this under ~/.gitconfig
-
 [user]
     name = Lars Kristian Haga
     email = LarsKHaga@gmail.com
+
 [alias]
     s = status
     st = status
