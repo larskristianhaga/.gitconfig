@@ -11,5 +11,6 @@
     pl = pull origin
     br = branch
     co = checkout
-    i = init
+    sw = switch
+    i = init   
     all = add .
